@@ -1,2 +1,3 @@
 # helloworld
-hello world is a basic progra to print helloworld text.
+hello world is a basic program to print hello world text.
+Hi World..
